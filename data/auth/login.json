@@ -1,0 +1,10 @@
+{
+    "loginSuccess": {
+        "email": "wiby@filevino.com",
+        "password": "112233"
+    },
+    "loginFailed": {
+        "email": "wiby@filevino.com",
+        "password": "332211"
+    }
+}
