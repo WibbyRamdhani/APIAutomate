@@ -9,4 +9,5 @@
 - npm run coba
 
 # Evidance
-https://drive.google.com/file/d/1C7Vr-YCeq6GypDMswC9Rz2xp7-VOeely/view?usp=sharing
+https://github.com/WibbyRamdhani/APIAutomate/assets/17083369/a53f76e7-8080-45f7-99b6-33ea78bd9856
+
